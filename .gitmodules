@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ZarkaouiI/ems-backend.git
+[submodule "ng-frontend"]
+	path = ng-frontend
+	url = https://github.com/ZarkaouiI/ems-frontend.git
